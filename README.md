@@ -25,7 +25,7 @@ and simplicity — because your time is better spent connecting, not clicking.
 Whether you’re building professional contacts, maintaining friendships, or networking your way up to your next FAANG
 internship, **NetWise helps you keep your network strong — one command at a time**.
 
-[User Guide](https://gordontzx.github.io/tp/UserGuide.html#quick-start)
+[User Guide](https://gordontzx.github.io/tp/UserGuide.html#quick-start)<br>
 [Developer Guide](https://gordontzx.github.io/tp/DeveloperGuide.html)
 
 **Acknowledgement**:
