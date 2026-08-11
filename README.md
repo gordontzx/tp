@@ -25,6 +25,9 @@ and simplicity — because your time is better spent connecting, not clicking.
 Whether you’re building professional contacts, maintaining friendships, or networking your way up to your next FAANG
 internship, **NetWise helps you keep your network strong — one command at a time**.
 
+[User Guide](https://gordontzx.github.io/tp/UserGuide.html#quick-start)<br>
+[Developer Guide](https://gordontzx.github.io/tp/DeveloperGuide.html)
+
 **Acknowledgement**:
 * This project is based on the AddressBook-Level3 project created by the [SE-EDU initiative](https://se-education.org).
 * Libraries used: [JavaFX](https://openjfx.io/), [Jackson](https://github.com/FasterXML/jackson), [JUnit5](https://github.com/junit-team/junit5)
